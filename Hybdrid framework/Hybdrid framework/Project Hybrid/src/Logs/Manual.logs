@@ -1,0 +1,13 @@
+16/02/2017 17:36:01 devpinoyLogger Hello
+16/02/2017 17:36:01 devpinoyLogger Properties loaded. Starting testing
+16/02/2017 17:36:01 devpinoyLogger Intialize Suite xlsx
+16/02/2017 17:36:06 devpinoyLogger AmetekSurfaceVision -- Y
+16/02/2017 17:36:06 devpinoyLogger ******Executing the Suite******AmetekSurfaceVision
+16/02/2017 17:36:06 devpinoyLogger Homepage -- Y
+16/02/2017 17:36:06 devpinoyLogger Executing the test case -> Homepage
+16/02/2017 17:36:06 devpinoyLogger navigate
+16/02/2017 17:36:06 devpinoyLogger Navigating to URL
+16/02/2017 17:36:06 devpinoyLogger FAIL -- Not able to navigate
+16/02/2017 17:36:06 devpinoyLogger taking screen shot according to config
+16/02/2017 17:36:06 devpinoyLogger not able to take screen shotsnull
+16/02/2017 17:36:06 devpinoyLogger pause
